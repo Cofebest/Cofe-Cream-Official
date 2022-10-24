@@ -11,7 +11,7 @@ Guest or Visitor : The personn who needs to join the group [roblox.com](https://
 
 🍩 Trainee : Members who have passed the application at the application center.
 
-🍎 Junior employer : Someone who has attended one training. and passed. Also obtainable by purchasing the “Sernior Employer” gamepass.
+🍎 Junior employer : Someone who has attended one training. and passed. Also obtainable by purchasing the “Junior Employer” gamepass.
 
 🥞 Senior Employer : A staff member who has passed two trainings.
 
